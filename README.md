@@ -1,7 +1,8 @@
 ### Olá 👋
 
 - 💻 Atualmente trabalho como Desenvolvedora Front-end
-- 👨‍🎓 Cursando Sistemas de Informação (3º semestre)
+- 👨‍🎓 Cursando Sistemas de Informação (4º semestre)
+- 🦎 Sempre em constante mudança e adaptação 
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=solilorys&show_icons=true&theme=radical">
