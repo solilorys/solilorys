@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ol%C3%A1%2C;Desenvolvedora+Front-end;Seja+bem-vindo(a))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Sou+Laryssa+Brilhante;Desenvolvedora+front-end;Seja+bem-vindo(a))](https://git.io/typing-svg)
 
 - 💻 Atualmente trabalho como Desenvolvedora Front-end
 - 👨‍🎓 Cursando Sistemas de Informação (4º semestre)
