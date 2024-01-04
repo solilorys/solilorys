@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Sou+Laryssa+Brilhante+Pessoa;Desenvolvedora+front-end;Seja+bem-vindo(a))](https://git.io/typing-svg)
 
-- 💻 Atualmente trabalho como Desenvolvedora de Software
-- 👨‍🎓 Cursando Sistemas de Informação (7º semestre)
-- 🦎 Sempre em constante mudança e adaptação 
+- 💻 I currently work as a Software Developer
+- 👨‍🎓 Studying Information Systems (7th semester)
+- 🦎 Always constantly changing and adapting
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=solilorys&show_icons=true&theme=radical">
@@ -10,7 +10,7 @@
 </div>
 <br>
 
-### Principais Skills
+### My Skills
 <div style="display: center">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -23,7 +23,7 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-### Frameworks/Bibliotecas
+### Frameworks/Library
 <div>
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
@@ -31,7 +31,7 @@
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
-### Outras
+### Others
 <div>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -39,7 +39,7 @@
   <img align="center" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
-### Ferramentas
+### Tools
 <div>
   <img align="center" alt="vs" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -48,7 +48,7 @@
   <img align="center" alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
 </div>
 
-## Redes
+## Networks
 <div style="display: center"> 
   <a href="https://www.linkedin.com/in/laryssa-brilhante-ab15b11b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:laryssa.brilhante@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
