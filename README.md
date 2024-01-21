@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Sou+Laryssa+Brilhante+Pessoa;Desenvolvedora+front-end;Seja+bem-vindo(a))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Laryssa+Brilhante+Pessoa;Developer+PHP;Welcome!)](https://git.io/typing-svg)
 
 - 💻 I currently work as a Software Developer
 - 👨‍🎓 Studying Information Systems (7th semester)
