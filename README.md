@@ -6,7 +6,7 @@
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=solilorys&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solilorys&langs_count=7&theme=radical"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solilorys&langs_count=7&theme=radical"/>
 </div>
 <br>
 
