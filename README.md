@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Laryssa+Brilhante+Pessoa;Developer+PHP;Welcome!)](https://git.io/typing-svg)
 
 - 💻 I currently work as a Software Developer
-- 👨‍🎓 Studying Information Systems (7th semester)
+- 👨‍🎓 Studying Information Systems (8th semester)
 - 🦎 Always constantly changing and adapting
 
 <div>
